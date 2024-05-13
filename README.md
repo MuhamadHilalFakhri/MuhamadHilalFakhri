@@ -1,4 +1,4 @@
--  👋 Hi, I’m @MuhamadHilalFakhri!
+-  👋 Hi, I’m MuhamadHilalFakhri!
 -  👀 I’m interested in technology, programming, and artificial intelligence.
 -  🌱 I’m currently learning machine learning and data science techniques.
 -  💞️ I’m looking to collaborate on open-source projects related to AI and software development.
